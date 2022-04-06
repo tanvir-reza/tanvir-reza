@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tanvir-reza
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on teaching basic programming
 - 📫 contact me through my email: tanvir.reza.abc@gmail.com
 
