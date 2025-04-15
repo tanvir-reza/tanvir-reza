@@ -5,19 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanvir-reza" alt="tanvir-reza" /></a> </p>
 
-- 🔭 I’m currently working on [DCOMM](https://tanvirreza.me/)
+- 🔭 Check My Activity [](https://home.tanvirreza.me/)
 
 - 🌱 I’m currently learning **Django**
 
-- 👯 I’m looking to collaborate on [DCOMM1](https://tanvirreza.me/)
-
-- 🤝 I’m looking for help with [DCOMM2](https://tanvirreza.me/)
-
 - 👨‍💻 All of my projects are available at [https://tanvirreza.me/](https://tanvirreza.me/)
 
-- 📝 I regularly write articles on [https://pylik.com](https://pylik.com)
-
-- 💬 Ask me about **Web Design, Django and Cyber security**
+- 💬 Ask me about **Backend Development , Service Deployment and Cyber security**
 
 - 📫 How to reach me **mail@tanvirreza.me**
 
